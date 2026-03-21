@@ -34,9 +34,9 @@
 
 ## 📊 GitHub Stats
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robasmuel&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robasmuel&layout=compact&theme=radical)
 
 ---
 
@@ -48,5 +48,5 @@
 ---
 
 ## 📫 Contact Me
-- 💼 LinkedIn: (tu link)
-- 📧 Email: (tu correo)
+- 💼 LinkedIn: https://www.linkedin.com/in/samuel-robayo-683a2a255/*
+- 📧 Email: srobayo423@gmail.com
