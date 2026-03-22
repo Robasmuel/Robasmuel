@@ -1,52 +1,71 @@
-<h1 align="center">Hi 👋, I'm Samuel Robayo</h1>
+<h1 align="center">Hi 👾, I'm Samuel Robayo</h1>
 <h3 align="center">Systems Engineering Student | Backend Developer | Cybersecurity Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
+
 - 🎓 Systems Engineering student  
 - 💻 Backend developer passionate about building scalable solutions  
 - 🔐 Interested in cybersecurity and network management  
-- ☁️ Learning cloud & microservices (AWS)  
-- 🧠 Always learning new technologies and improving my skills  
+- 🧠 Always learning new technologies  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+<div align="center">
 
-### 🌐 Web
-![HTML](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
+### 👨‍💻 Languages
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
+
+---
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+
+---
 
 ### ⚙️ Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellijidea)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robasmuel&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robasmuel&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Robasmuel&show_icons=true&theme=tokyonight" height="170"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robasmuel&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-## 🔥 Featured Projects
-- 🚀 Proyecto 1 – breve descripción
-- 🔐 Proyecto 2 – breve descripción
-- 📦 Proyecto 3 – breve descripción
+</div>
 
 ---
 
 ## 📫 Contact Me
-- 💼 LinkedIn: https://www.linkedin.com/in/samuel-robayo-683a2a255/*
-- 📧 Email: srobayo423@gmail.com
+
+<div align="center">
+
+<a href="https://linkedin.com/in/samuel-robayo-683a2a255">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/Robasmuel">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="mailto:srobayo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
