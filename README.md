@@ -1,5 +1,7 @@
+<img src="banner.gif" width="100%" />
+
 <h1 align="center">Hi 👾, I'm Samuel Robayo</h1>
-<h3 align="center">Systems Engineering Student | Backend Developer | Cybersecurity Enthusiast</h3>
+<h3 align="center">Backend Developer | Cybersecurity</h3>
 
 ---
 
