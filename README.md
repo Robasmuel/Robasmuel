@@ -1,8 +1,12 @@
-<img src="banner.gif" width="100%" />
+<img src="descargar.jpg" width="100%" />
 
-<h1 align="center">Hi 👾, I'm Samuel Robayo</h1>
-<h3 align="center">Backend Developer | Cybersecurity</h3>
+<h2 align="center" style="margin-top:-40px;">
+Hi 👾, I'm Samuel Robayo
+</h2>
 
+<h4 align="center">
+Backend Developer | Cybersecurity
+</h4>
 ---
 
 ## 🚀 About Me
