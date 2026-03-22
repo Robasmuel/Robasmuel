@@ -1,26 +1,29 @@
-<img src="descargar.jpg" width="100%" />
+<img src="imagen_2026-03-21_202032584.png" width="100%" />
 
-<h2 align="center" style="margin-top:-40px;">
-Hi 👾, I'm Samuel Robayo
-</h2>
+<table>
+<tr>
+<td width="60%">
+🚀 About Me
+  
+- 🎓 Systems Engineering student
+  
+- 💻 Backend developer passionate about scalable systems  
 
-<h4 align="center">
-Backend Developer | Cybersecurity
-</h4>
----
+- 🔐 Cybersecurity enthusiast  
 
-## 🚀 About Me
+- 🧠 Constant learner  
 
-- 🎓 Systems Engineering student  
-- 💻 Backend developer passionate about building scalable solutions  
-- 🔐 Interested in cybersecurity and network management  
-- 🧠 Always learning new technologies  
+</td>
 
----
-
-## 🛠️ Tech Stack
+<td width="60%">
+  <img src="./banner.gif" width="100%">
+</td>
+</tr>
+</table>
 
 <div align="center">
+
+## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
@@ -48,9 +51,9 @@ Backend Developer | Cybersecurity
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
+
+## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Robasmuel&show_icons=true&theme=tokyonight" height="170"/>
 
@@ -59,6 +62,7 @@ Backend Developer | Cybersecurity
 </div>
 
 ---
+
 
 ## 📫 Contact Me
 
