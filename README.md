@@ -54,13 +54,13 @@
 
   ## 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Robasmuel&show_icons=true&theme=radical&title_color=ff438b&icon_color=ff438b&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Robasmuel&show_icons=true&theme=radical&title_color=ff438b&icon_color=ff438b&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true&cache_seconds=1800" height="170" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robasmuel&layout=compact&theme=radical&title_color=ff438b&text_color=ffffff&bg_color=0d1117&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robasmuel&layout=compact&theme=radical&title_color=ff438b&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800" height="170" />
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robasmuel&theme=radical&fire=ff438b&ring=ff438b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=0d1117&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robasmuel&theme=radical&fire=ff438b&ring=ff438b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=0d1117&hide_border=true&hide_border=true&cache_seconds=1800" height="170" />
 
 </div>
 
